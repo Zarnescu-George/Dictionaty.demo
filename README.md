@@ -1,1 +1,1 @@
-# Dictionaty.demo
+# Dictionary.demo
